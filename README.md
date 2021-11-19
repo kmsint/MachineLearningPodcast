@@ -56,6 +56,7 @@
 - [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xMjU4NGM1OC9wb2RjYXN0L3Jzcw==)
 - [Spotify](https://open.spotify.com/show/5PG3n5O82nMXeIUN37A4SH)
 - [RSS](https://anchor.fm/s/12584c58/podcast/rss)
+- [YouTube](https://www.youtube.com/channel/UCzvfXLNpB2Bbf32dc7a8oDQ?)
 - [Telegram](https://t.me/toBeAnMLspecialist)
 
 ## Обратная связь
