@@ -54,11 +54,12 @@
 ### 3-й сезон
 
 37. [Николай Додонов. Как психология помогает в обучении и жизни](./episodes/037MLSpec.md)
+38. [Никита Васильев и Вероника Голубева. Кто такие дата-инженеры?](./episodes/038ML.md)
 
 ## Подкаст доступен на следующих площадках:
 
 - [Apple](https://podcasts.apple.com/ru/podcast/machine-learning-podcast/id1495052772?l=ru)
-- [Anchor](https://anchor.fm/kmsrus)
+- [Mawe](https://mlpodcast.mave.digital)
 - [Yandex](https://music.yandex.ru/album/9781458)
 - [Castbox](https://castbox.fm/channel/Machine-Learning-Podcast-id2572248)
 - [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xMjU4NGM1OC9wb2RjYXN0L3Jzcw==)
